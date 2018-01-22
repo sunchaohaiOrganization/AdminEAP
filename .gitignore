@@ -18,4 +18,23 @@ AdminEAP-web/src/main/resources/setting.properties
 AdminEAP-framework/target/*
 AdminEAP-web/target/*
 .gitignore.bak
+*.iml
+*.classpath  
+*.prefs
+*.project  
+.settings  
+.project  
+.target  
+.classpath  
+**/.settings  
+**/.classpath  
+**/.eclipse  
+**/target/  
+target/  
+bin/  
+.svn  
 
+.idea
+*.gitignore
+**/.metadata
+**/RemoteSystemsTempFiles
